@@ -29,10 +29,9 @@ git restore .
 git restore filename
 
 git restore --staged .
-
-git stash
-git stash list
-git stash pop
-git stash apply
-
 git remote -v
+
+- git stash
+- git stash list
+- git stash pop
+- git stash apply
