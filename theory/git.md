@@ -1,9 +1,9 @@
 # Must know commands:
 
-git status
+- git status
 
-git diff
-git diff --staged
+- git diff
+- git diff --staged
 
 git add .
 git add filename
