@@ -1,7 +1,0 @@
-This is login functionality ;)
-
-Content for commit 1
-Content for commit 2
-Content for commit 3
-Content for commit 4
-Content for commit 5
